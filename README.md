@@ -20,19 +20,25 @@ Pour base de données, veuillez créer la base de données : stock2
 Concernant la couche présentation, voici une petite présentation de quelques interfaces de cette application:
 
 1)index.jsp: cette page contient les quatres liens d'ajout des produits, lignecommandes, commandes, et catégories
-![s1](https://github.com/LAGHRIDATHASNAE/TP_JSP/assets/148015530/974e1f44-27ba-45ba-a37b-ad77f7ca36a4)
+![s1](https://github.com/LAGHRIDATHASNAE/TP_JSP1/assets/148015530/51eecd1a-6da7-42f2-b4e8-c07923c05454)
+
 
 2)Produit.jsp: on peut ici ajouter un produit tout en précisant la catégorie aussi.
-![Capture d’écran (875)](https://github.com/LAGHRIDATHASNAE/TP_JSP/assets/148015530/461a8b01-c77f-4761-8cfe-18b23e308902)
+![Capture d’écran (875)](https://github.com/LAGHRIDATHASNAE/TP_JSP1/assets/148015530/a7ba5285-6741-4e84-917d-8edc731c9a88)
+
 
 3)LigneCommande.jsp: on peut ajouter une ligne de commande par produit et par commande.
-![Capture d’écran (876)](https://github.com/LAGHRIDATHASNAE/TP_JSP/assets/148015530/d012b2c5-062d-4814-a139-9ab361054629)
+
+![Capture d’écran (876)](https://github.com/LAGHRIDATHASNAE/TP_JSP1/assets/148015530/afde4b08-581d-4dc0-92cb-21258521c2af)
+
 
 4)EditLigne.jsp: Ce formulaire nous permet de modifier une ligne de commande.
-![Capture d’écran (877)](https://github.com/LAGHRIDATHASNAE/TP_JSP/assets/148015530/a373bfdc-d201-413f-8e85-d44a4210e6b3)
+![Capture d’écran (877)](https://github.com/LAGHRIDATHASNAE/TP_JSP1/assets/148015530/ec5a7f6b-cec2-4efc-a6e4-fe78389ff045)
+
 
 5)EditCategorie.jsp: Ce formulaire nous permet de modifier une catégorie en cliquant sur le bouton "Modifier" de l'interface "Categorie.jsp".
-![Capture d’écran (869)](https://github.com/LAGHRIDATHASNAE/TP_JSP/assets/148015530/0e3a5e3e-d5bb-4b83-9985-79734ecb64b2)
+
+![Capture d’écran (869)](https://github.com/LAGHRIDATHASNAE/TP_JSP1/assets/148015530/b3c804c9-d3c4-42cd-9dec-32848cc48045)
 
 En plus, la fonctionnalité de suppression est bien établie. Il suffit de cliquer sur le bouton "Supprimer".
 
